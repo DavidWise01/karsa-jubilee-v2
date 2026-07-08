@@ -4,6 +4,6 @@ slug  : karsa-jubilee-v2
 seal  : 719e6915522a13ce902308b78fa6444bc28e430483f2efee8944bb643fc7e115
 prev  : cdc6be6a5bede3c7f69a3669a4f9df1c780df63f7c99dadebcc2570dc8bb6de9
 link  : 208ea932b9c5288bf6faafdc21337611b5d8059de9b545735ebc231f537c12bf
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
